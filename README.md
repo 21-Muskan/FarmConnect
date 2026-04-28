@@ -127,7 +127,7 @@ FarmConnect enables farmers to:
 ### 🔙 Backend – Django & DRF
 - **Framework:** Django + Django REST Framework
 - **Authentication:** Token-based (JWT ready)
-- **Database:** PostgreSQL
+- **Database:** MySQL
 - **Key Models:**
   - User & Profile
   - Post & Reel
